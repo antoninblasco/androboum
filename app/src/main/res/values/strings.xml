@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">AndroBoum</string>
     <string name="title">L\'application qui fait boum !</string>
+    <string name="boutonstart">Démarrer</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
 </resources>
